@@ -6,6 +6,9 @@
 ## Practical
 * [United States Army Field Manuals](https://en.wikipedia.org/wiki/United_States_Army_Field_Manuals)
 
+## Education
+* [The Aims of Education - Alfred North Whitehead](http://edf.stanford.edu/sites/default/files/whitehead.pdf)
+
 ## Social Sciences
 * [The Intellectuals and Socialism - F. A. Hayek](https://fee.org/articles/the-intellectuals-and-socialism/)
 
