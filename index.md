@@ -12,3 +12,4 @@
 * [Encyclopedia Britannica's Propaedia](http://www.markklingman.com/docs/britannica_propaedia.pdf)
 * [Wikipedia Outline of Knowledge](https://en.wikipedia.org/wiki/Portal:Contents/Outlines)
 * [Marxists Internet Archive Library](https://www.marxists.org/archive/index.htm)
+* [John Holt's Reading List](http://www.johnholtgws.com/john-holts-reading-list/)
