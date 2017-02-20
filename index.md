@@ -1,5 +1,6 @@
 ## Theoretical
 * [The Feynman Lectures on Physics](http://www.feynmanlectures.caltech.edu/)
+* [Relativity: The Special and General Theory](http://www.gutenberg.org/files/5001/5001-h/5001-h.htm)
 
 ## Practical
 * [United States Army Field Manuals](https://en.wikipedia.org/wiki/United_States_Army_Field_Manuals)
