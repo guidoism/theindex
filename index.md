@@ -14,6 +14,7 @@
 * [The Intellectuals and Socialism - F. A. Hayek](https://fee.org/articles/the-intellectuals-and-socialism/)
 
 ## Encyclopedia
+* [Pliny's Natural History](http://www.masseiana.org/pliny.htm)
 * [Natural Philosophy Epitomised (1503)](https://books.google.com/books/about/Natural_Philosophy_Epitomised.html?id=srgjhIJU2wkC)
 
 ## Other Indices
