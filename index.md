@@ -13,6 +13,9 @@
 ## Social Sciences
 * [The Intellectuals and Socialism - F. A. Hayek](https://fee.org/articles/the-intellectuals-and-socialism/)
 
+## Encyclopedia
+* [Natural Philosophy Epitomised (1503)](https://books.google.com/books/about/Natural_Philosophy_Epitomised.html?id=srgjhIJU2wkC)
+
 ## Other Indices
 * [Encyclopedia Britannica's Propaedia](http://www.markklingman.com/docs/britannica_propaedia.pdf)
 * [Wikipedia Outline of Knowledge](https://en.wikipedia.org/wiki/Portal:Contents/Outlines)
