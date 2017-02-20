@@ -7,6 +7,7 @@
 * [United States Army Field Manuals](https://en.wikipedia.org/wiki/United_States_Army_Field_Manuals)
 
 ## Education
+* [Democracy and Education - John Dewey](https://www.gutenberg.org/files/852/852-h/852-h.htm)
 * [The Aims of Education - Alfred North Whitehead](http://edf.stanford.edu/sites/default/files/whitehead.pdf)
 
 ## Social Sciences
