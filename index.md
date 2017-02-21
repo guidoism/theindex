@@ -20,6 +20,7 @@
 * [Natural Philosophy Epitomised (1503)](https://books.google.com/books/about/Natural_Philosophy_Epitomised.html?id=srgjhIJU2wkC)
 * [De nuptiis philologiae, et Mercurii, et de septem artibus liberalibus libri novem](https://archive.org/details/denuptiisphilolo00martuoft)
 * [The International Cyclopedia: A Compendium of Human Knowledge - Volume 13 (1899)](https://archive.org/details/internationalcy00peabgoog)
+* [Encyclopédie (1777)](http://quod.lib.umich.edu/d/did/)
 
 ## Other Indices
 * [Encyclopedia Britannica's Propaedia](http://www.markklingman.com/docs/britannica_propaedia.pdf)
