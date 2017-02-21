@@ -5,6 +5,7 @@
 
 ## Practical
 * [United States Army Field Manuals](https://en.wikipedia.org/wiki/United_States_Army_Field_Manuals)
+* [The Handbook of Essential Mathematics (2006)](https://florida.theorangegrove.org/og/file/3a8c652c-11d0-e967-95fb-b5bbae2586d6/1/math_handbook.pdf) - Formulas, Processes, and Tables Plus Applications in Personal Finance
 
 ## Education
 * [Democracy and Education - John Dewey](https://www.gutenberg.org/files/852/852-h/852-h.htm)
