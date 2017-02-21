@@ -28,3 +28,4 @@
 * [Marxists Internet Archive Library](https://www.marxists.org/archive/index.htm)
 * [John Holt's Reading List](http://www.johnholtgws.com/john-holts-reading-list/)
 * [List of important publications in mathematics on Wikipedia](https://en.wikipedia.org/wiki/List_of_important_publications_in_mathematics)
+* [Map of the System of Human Knowledge](http://quod.lib.umich.edu/d/did/graphics/tree.png)
