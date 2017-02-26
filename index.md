@@ -14,6 +14,7 @@
 
 ## Social Sciences
 * [The Intellectuals and Socialism - F. A. Hayek](https://fee.org/articles/the-intellectuals-and-socialism/)
+* [The Ego and His Own - Max Stirner](http://theanarchistlibrary.org/library/max-stirner-the-ego-and-his-own)
 
 ## Encyclopedia
 * [Pliny's Natural History](http://www.masseiana.org/pliny.htm)
