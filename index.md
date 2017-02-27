@@ -32,3 +32,4 @@
 * [Map of the System of Human Knowledge](http://quod.lib.umich.edu/d/did/graphics/tree.png)
 * [Online Books Index at UPenn](http://onlinebooks.library.upenn.edu/new.html)
 * [Project Gutenberg Australia](http://gutenberg.net.au/plusfifty-a-m.html)
+* [Greater Books](http://www.greaterbooks.com/index.html) - Compilations of Great Books lists
