@@ -1,3 +1,6 @@
+## Programming
+* [Linux Device Drivers, Third Edition](https://lwn.net/Kernel/LDD3/)
+
 ## Theoretical
 * [The Feynman Lectures on Physics](http://www.feynmanlectures.caltech.edu/)
 * [Relativity: The Special and General Theory](http://www.gutenberg.org/files/5001/5001-h/5001-h.htm)
