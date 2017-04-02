@@ -1,5 +1,6 @@
 ## Programming
 * [Linux Device Drivers, Third Edition](https://lwn.net/Kernel/LDD3/)
+* [The Craft of Text Editing](http://www.finseth.com/craft/) - How to write a text editor (and the history of emacs)
 
 ## Theoretical
 * [The Feynman Lectures on Physics](http://www.feynmanlectures.caltech.edu/)
