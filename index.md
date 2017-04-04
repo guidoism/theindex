@@ -38,4 +38,4 @@
 * [Project Gutenberg Australia](http://gutenberg.net.au/plusfifty-a-m.html)
 * [Greater Books](http://www.greaterbooks.com/index.html) - Compilations of Great Books lists
 * [Online Courses](http://www.openculture.com/freeonlinecourses)
-* [](https://archive.org/details/greatideasvolii030337mbp), [Volume 2](http://archive.org/details/greatideasvolii030131mbp), and [6 additional Great Ideas](https://www.amazon.com/Six-Great-Ideas-Mortimer-Adler-ebook/dp/B001D1UOV0)
+* [The Syntopicon: Volume 1](https://archive.org/details/greatideasvolii030337mbp), [Volume 2](http://archive.org/details/greatideasvolii030131mbp), and [6 additional Great Ideas](https://www.amazon.com/Six-Great-Ideas-Mortimer-Adler-ebook/dp/B001D1UOV0)
