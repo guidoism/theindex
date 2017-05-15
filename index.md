@@ -39,3 +39,4 @@
 * [Greater Books](http://www.greaterbooks.com/index.html) - Compilations of Great Books lists
 * [Online Courses](http://www.openculture.com/freeonlinecourses)
 * [The Syntopicon: Volume 1](https://archive.org/details/greatideasvolii030337mbp), [Volume 2](http://archive.org/details/greatideasvolii030131mbp), and [6 additional Great Ideas](https://www.amazon.com/Six-Great-Ideas-Mortimer-Adler-ebook/dp/B001D1UOV0)
+* [You Can Learn Anything Mindmap](https://github.com/nikitavoloboev/knowledge-map) - Index to lots of stuff
