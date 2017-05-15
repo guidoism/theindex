@@ -20,6 +20,10 @@
 * [The Intellectuals and Socialism - F. A. Hayek](https://fee.org/articles/the-intellectuals-and-socialism/)
 * [The Ego and His Own - Max Stirner](http://theanarchistlibrary.org/library/max-stirner-the-ego-and-his-own)
 
+## Economics
+
+* [Marginal Revolution University](http://www.mruniversity.com)
+
 ## Encyclopedia
 * [Pliny's Natural History](http://www.masseiana.org/pliny.htm)
 * [Natural Philosophy Epitomised (1503)](https://books.google.com/books/about/Natural_Philosophy_Epitomised.html?id=srgjhIJU2wkC)
